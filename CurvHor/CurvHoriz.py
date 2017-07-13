@@ -20,10 +20,10 @@ def CurvHor(R, A):
     plt.annotate ('', (R, 0), (R, R), arrowprops={'arrowstyle':'-'})
     plt.annotate ('', (R, R), (0, R), arrowprops={'arrowstyle':'-'})
     
-    x = np.cos(theta)
-    y = np.sin(theta)
-    z = x*R
-    w = y*R
+    xp = np.cos(theta)
+    yp = np.sin(theta)
+    z = xp*R
+    w = yp*R
 
     plt.plot(z,w)
     plt.axis("equal")

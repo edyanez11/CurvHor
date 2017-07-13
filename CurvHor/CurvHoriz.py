@@ -19,7 +19,9 @@ def CurvHor(R, A):
     plt.annotate ('', (R, 0), (0, R), arrowprops={'arrowstyle':'-'})
     plt.annotate ('', (R, 0), (R, R), arrowprops={'arrowstyle':'-'})
     plt.annotate ('', (R, R), (0, R), arrowprops={'arrowstyle':'-'})
-
+    
+    x = np.cos(theta)
+    y = np.sin(theta)
     z = x*R
     w = y*R
 

@@ -7,7 +7,6 @@ def CurvHor(R, A):
         return np.sin(np.radians(grados))
     pi = np.pi
     theta = np.linspace(0, np.pi/2, 30)
-    %matplotlib inline
     
 #Calculos
     LC = A*pi*R/180

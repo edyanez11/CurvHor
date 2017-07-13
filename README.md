@@ -1,2 +1,5 @@
-# CurvHor
-Diseñado para la obtención de los elementos que componen una curva horizontal
+# CurvHor instalacion
+Para la instalacion es necesario correr estos comandos en la consola...
+conda install git
+pip install git+https://github.com/edyanez11/CurvHor
+y ahora solamente se importa de la misma manera que cualquier modulo.

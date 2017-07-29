@@ -11,7 +11,7 @@ def CurvHor(R, A):
 #Calculos
     LC = A*pi*R/180
     Sbt = R*tan(A/2)
-    Ext = Sbt*tan(22.5)
+    Ext = Sbt*tan(A/4)
     B = Sbt*sen(A/2)
     OM = B-Ext
     C = 2*R*sen(A/2)

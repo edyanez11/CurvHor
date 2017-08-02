@@ -44,6 +44,6 @@ Y con esto, ya tendrian todos los valores calculados de una curva horizontal.
 
 Como resultado el programa generará los valores correspondientes a la 'longitud de la curva', 'el radio', 'las subtangentes', 'la externa', 'la ordenada media' y 'la cuerda'. Dando como resultado una imagen de una curva con las subtangentes y la cuerda trazadas como se puede observar en la siguiente imagen:
 
-![](https://githubusercontent.com/edyanez11/CurvHor/blob/master/img/curva.png)
+![](https://github.com/edyanez11/CurvHor/blob/master/img/curva.png)
 
 

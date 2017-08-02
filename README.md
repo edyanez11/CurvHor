@@ -32,7 +32,7 @@ Una vez ingresados las variables correspondientes de la manera indicada serán g
 
 
 
-
+                                                                                                                                          
 ## Ejemplo 
 
 Suponiendo que el nombre de nuestro archivo sea "datos_curva"(por decir un nombre), y nuestro ángulo de deflexión sea de 87°42'12" en el programa se introduciría de la siguiente manera: 

@@ -6,7 +6,7 @@ CurvHor es un paquete que te permite realizar los calculos de los elementos que 
 
 ## Restricciones
 
-El paquete tendra la funcionalidad de realizar los cálculos sin ninguna dificultad si los datos contenidos en el archivo CSV tiene las coordenadas de el trazo de la curva Contando con el PC (Punto Comienzo) y el PT (Punto de Termino), sin importar si no se encuentra ordenado el archivo.
+El paquete tendra la funcionalidad de realizar los cálculos sin ninguna dificultad si los datos contenidos en el archivo CSV son de las coordenadas a todo lo largo del trazo de la curva contando con las del PC (Punto Comienzo) y el PT (Punto de Termino), sin importar si no se encuentra ordenado el archivo.
 
 ## Instalacion Del Paquete
 Para la instalacion es necesario correr estos comandos en la consola...  

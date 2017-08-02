@@ -48,7 +48,7 @@ Como resultado el programa generará los valores correspondientes a la 'longitud
 
 Indicando que que no tuvo ningún error al momento de realizar el proceso, y después de cerrar la ventana emergente de esa imagen se mostrarán los resultados  expreados en mestros de los elementos de la curva horizontal, mas o menos de la siguiente manera:
 
-
+![](https://user-images.githubusercontent.com/30146147/28872080-2830a40a-774d-11e7-890b-7780e8f56a9b.png)
 
 
 

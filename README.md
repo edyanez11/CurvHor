@@ -1,4 +1,4 @@
-# CurvHor instalacion
+## Instalacion Del Paquete
 Para la instalacion es necesario correr estos comandos en la consola...  
 ```
 1.- conda install git

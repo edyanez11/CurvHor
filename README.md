@@ -25,3 +25,11 @@ import CurvHor
 
 Una vez instalado e importado el paquete a nuestra consola, es necesario hacer la inserción de 4 variables (que en sí serían solo dos, ya que, 3 de las variables necesarias son para la especificación del ángulo de inflexión), donde en la primera; se pide el nombre del archivo CSV donde se encuentran contenidas las coordenadas de la curva (cabe hacer la mención de que el nombre del archivo tiene que estar escrito sin la extensión de este mismo), la segunda; son los grados correspondientes al ángulo de inflexión (°), en la tercera; se piden los minutos de este mismo ángulo ('), y en la última variable se piden los segundos (").
 Una vez ingresados las variables correspondientes de la manera indicada serán generados los datos, solo queda esperar.
+
+## Ejemplo 
+
+Suponiendo que el nombre de nuestro archivo sea "datos_curva"(por decir un nombre), y nuestro ángulo de deflexión sea de 87°42'12" en el programa se introduciría de la siguiente manera: 
+```
+CurvHor(datos_curva, 87, 42, 12)
+```
+Y con esto, ya tendrian todos los valores calculados de una curva horizontal.

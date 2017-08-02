@@ -2,7 +2,7 @@
 
 ## ¿Que es?
 
-CurvHor es un paquete que te permite realizar los calculos de los elementos que contiene una Curva Horizontal a partir de los datos de un archivo CSV, (ésto, hablando de topografía), como lo son la longitud de la curva, la cuerda, las subyacentes, la externa, la ordenada media y el radio de esta misma, ya sea para la obtención de ellos o la comprobación, en dado caso de ya tener una curva trazada.
+CurvHor es un paquete que te permite realizar los cálculos de los elementos que contiene una Curva Horizontal a partir de los datos de un archivo CSV, (ésto, hablando de topografía), como lo son la longitud de la curva, la cuerda, las subyacentes, la externa, la ordenada media y el radio de esta misma, ya sea para la obtención de ellos o la comprobación, en dado caso de ya tener una curva trazada, de manera simple solamente con la utilizacion de un archivo delimitado por comas y el ángulo de deflexión de la curva deseada.
 
 
 ## Condiciones

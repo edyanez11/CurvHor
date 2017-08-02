@@ -6,4 +6,9 @@ Para la instalacion es necesario correr estos comandos en la consola...
 ```
 2.- pip install git+https://github.com/edyanez11/CurvHor     
 ```
-y ahora solamente se importa de la misma manera que cualquier modulo.                                                                     
+y ahora solamente se importa de la misma manera que cualquier modulo.  
+Como puede ser:
+```
+import CurvHor
+```
+

@@ -31,6 +31,8 @@ Una vez instalado e importado el paquete a nuestra consola, es necesario hacer l
 Una vez ingresados las variables correspondientes de la manera indicada serán generados los datos, solo queda esperar.
 
 
+
+
 ## Ejemplo 
 
 Suponiendo que el nombre de nuestro archivo sea "datos_curva"(por decir un nombre), y nuestro ángulo de deflexión sea de 87°42'12" en el programa se introduciría de la siguiente manera: 

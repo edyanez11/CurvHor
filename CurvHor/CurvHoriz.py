@@ -50,4 +50,4 @@ def CurvHor(Name, G, M, S):
     plt.axis("equal")
     plt.show()
 
-    return "Longitud de curva",LC, "Subtangente",Sbt, "Externa",Ext, "Ordenada media",OM, "Radio",R
+    return "Longitud de curva",LC, "Subtangente",Sbt, "Externa",Ext, "Ordenada media",OM, "Radio",R, "Cuerda",C
